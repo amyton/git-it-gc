@@ -2,6 +2,9 @@
 /* Global
 ================================ */
 
+body {
+	color: red;
+}
 .rnd {
 	border-radius: 6px;
 }
